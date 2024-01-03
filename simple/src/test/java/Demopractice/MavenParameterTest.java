@@ -14,7 +14,7 @@ public void receiveData() {
 	Reporter.log(URL,true);
 	WebDriver d = new ChromeDriver();
 	d.get(URL);
-	Reporter.log("jenkins over",true);
+	Reporter.log("jenkins over in jan month",true);
 //	String name = System.getProperty("name");
 //	d.findElement(By.xpath("(//input[@type='text'])[1]")).sendKeys(name);
 	
