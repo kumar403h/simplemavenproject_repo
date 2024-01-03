@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class IQVIATest {
 @Test
 public void Dee() {
-	Reporter.log("BBMP may visit");
+	Reporter.log("BBMP may visit",true);
 }
 }
